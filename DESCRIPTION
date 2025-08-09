@@ -1,0 +1,26 @@
+Package: EcoModelVis
+Title: Ecological Model Visualization Toolkit
+Version: 1.0.0
+Authors@R: 
+    person("Your", "Name", email = "your.email@example.com", 
+           role = c("aut", "cre"))
+Description: 
+    Provides tools for visualizing ecological model outputs, 
+    including response curves, jackknife plots and ROC curves.
+License: MIT
+Encoding: UTF-8
+Imports: 
+    shiny,
+    ggplot2,
+    dplyr,
+    purrr,
+    readr,
+    stringr,
+    ROCR,
+    matrixStats,
+    tidyr,
+    scales
+Suggests: 
+    testthat
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
