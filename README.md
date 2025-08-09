@@ -3,6 +3,6 @@ Maxent Ecological Model Visualization Tool
 
 ## 安装
 ```r
-remotes::install_github("issue123-123/Maxent-Ecological-Model-Visualization-Tool")
+remotes::install_github("issue123-123/EcoModelVis")
 library(Maxent Ecological Model Visualization Tool)
 run_ecovis_app()
